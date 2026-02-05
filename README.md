@@ -1,6 +1,9 @@
 # Radiation Classification System using Support Vector Machine (SVM)
 ![WhatsApp Image 2026-02-05 at 3 36 03 PM](https://github.com/user-attachments/assets/f9510d55-ac90-4079-ae40-60000288fb62)
 
+![WhatsApp Image 2026-02-05 at 3 40 36 PM](https://github.com/user-attachments/assets/fb403c27-b058-4e73-ae03-2153c3d20d6a)
+
+
 ![WhatsApp Image 2026-02-05 at 3 36 02 PM](https://github.com/user-attachments/assets/1f600f2f-2f8c-45af-a591-0ebd61e84069)
 
 
